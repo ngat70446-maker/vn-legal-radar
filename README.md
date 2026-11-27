@@ -54,3 +54,6 @@ To enable automated runs in GitHub Actions, configure the following repository s
 | --- | --- | --- |
 | `DISCORD_WEBHOOK_URL` | Yes | Discord channel webhook URL for delivering news Embeds. |
 | `OPENROUTER_API_KEY` | Optional | OpenRouter API key for 3-bullet Vietnamese AI summaries. Falls back to cleaned RSS descriptions if omitted. |
+<img width="1080" height="2400" alt="1000022723" src="https://github.com/user-attachments/assets/238b855b-0f47-4b66-9008-56e94fea24a4" />
+<img width="1080" height="2400" alt="1000022722" src="https://github.com/user-attachments/assets/979f54c1-c53e-4987-90f8-4a970cef1b29" />
+<img width="1080" height="2400" alt="1000022720" src="https://github.com/user-attachments/assets/4b333335-2b1a-4d50-a1e8-b9e243b183ce" />
